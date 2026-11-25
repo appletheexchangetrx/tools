@@ -15,6 +15,7 @@ A flat, modular collection of Markdown Custom Instructions. Each file is a stand
 | 07 | [autonomous-execution.md](./autonomous-execution.md) | Planning, tool use, implementation, troubleshooting, and verification |
 | 08 | [documentation.md](./documentation.md) | Technical specifications, README, changelog, API docs, and audit reports |
 | 09 | [output-standards.md](./output-standards.md) | ASCII tree, Markdown, code blocks, tables, and implementation reports |
+| 10 | [developer-coding.md](./developer-coding.md) | Software development role, coding standards, architecture, debugging, and security |
 
 ## Directory tree
 
@@ -29,7 +30,8 @@ custom-instruction/
 ├── testing-quality-assurance.md
 ├── autonomous-execution.md
 ├── documentation.md
-└── output-standards.md
+├── output-standards.md
+└── developer-coding.md
 ```
 
 ## Usage
